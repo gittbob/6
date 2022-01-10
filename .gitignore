@@ -1,0 +1,11 @@
+.pio
+.vscode/.browse.c_cpp.db*
+.vscode/launch.json
+.vscode/ipch
+Listings
+Objects
+DebugConfig
+Stm32F103C8Example.uvguix.*
+New Project.pdsprj.*
+.Build_Output.log
+Backup Of New Project.pdsbak

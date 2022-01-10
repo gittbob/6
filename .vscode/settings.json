@@ -1,0 +1,15 @@
+{
+    "files.exclude": {
+        "**/Listings": true,
+        "**/Objects": true,
+        "**/DebugConfig": true,
+        "**/Asm": true,
+        "**/Stm32F103C8Example.*": true,
+        "**/.DS_Store": true,
+        "**/.*": true,
+        "**/New Project.pdsprj*": true,
+        "**/Last Loaded New Project*": true,
+        "**/Backup Of New Project*": true,
+    },
+    "C_Cpp.errorSquiggles": "Disabled"
+}
